@@ -1,8 +1,17 @@
+Privilege Escalation via Tampering with Role Value in Project Listing Response
+
+Plataform: Litmus Chaos
+Version: 3.19.0
+CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
+
 Description
+
 Summary
+
 A critical privilege escalation vulnerability was identified in the LitmusChaos platform, which allows a low-privileged user to gain elevated privileges (from Viewer to Owner) over a project by tampering with the role value in the response of the /auth/list_projects endpoint. This flaw results in unauthorized actions being performed on resources that should be read-only for the user.
 
 Details
+
 During testing, it was observed that the /auth/list_projects endpoint returns a list of projects that the authenticated user can access, along with the respective roles (Viewer e Owner).
 
 Test Scenario:

@@ -1,6 +1,9 @@
 Privilege Escalation via Tampering with Role Value in Project Listing Response
 
 Plataform: Litmus Chaos
+repository: https://github.com/litmuschaos/litmus
+Github version: https://github.com/litmuschaos/litmus/releases/tag/3.19.0
+
 Version: 3.19.0
 CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H
 

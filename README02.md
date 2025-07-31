@@ -1,4 +1,12 @@
+Client-Side Validation Bypass Allows Insertion of Special Characters in User Data
 
+Plataform: Litmus Chaos
+
+Repository: https://github.com/litmuschaos/litmus
+
+Github version: https://github.com/litmuschaos/litmus/releases/tag/3.19.0
+
+Version: 3.19.0
 
 
 

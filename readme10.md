@@ -9,6 +9,7 @@ A vulnerability has been identified in the open source project Samarium - Busine
 🕵️‍♂️ Vulnerability Details
 
 During a security assessment of the application, it was identified that the image upload feature in /dashboard/team (used for creating a new team) accepts SVG files without proper sanitization. An attacker can exploit this by uploading a specially crafted .svg file containing embedded JavaScript. When this file is rendered in a browser, the malicious script executes in the context of the victim’s session.
+
 🔬 Steps to Reproduce
 
 ✅ Step 1 — Upload Malicious File

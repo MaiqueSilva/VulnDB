@@ -1,4 +1,4 @@
-Arbitrary JavaScript Execution via Unsanitized SVG Upload in Samarium - Business Management System v0.9.6
+Arbitrary JavaScript Execution via Unsanitized SVG Upload in Samarium - Business Management System v0.9.6 /cms/webpage/
 
 GitHub: https://github.com/oitcode/samarium
 

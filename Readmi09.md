@@ -33,27 +33,33 @@ stroke="#004400"/>
 
 The application accepts the uploaded SVG file without validation or sanitization.
 
-(insert screenshot here)
+<img width="1914" height="884" alt="1" src="https://github.com/user-attachments/assets/59c9a8a7-7bc4-4a6c-87e4-4719368812ff" />
+
+<img width="1910" height="848" alt="3" src="https://github.com/user-attachments/assets/a7e0c2f7-b082-4656-860d-6a68118a089c" />
+
+
+<img width="1918" height="887" alt="4" src="https://github.com/user-attachments/assets/58a1bade-4192-42dc-930a-c4cc49bea6de" />
+
 
 ✅ Step 2 — Access Uploaded Image
 
 Navigate to /gallery/ to locate the uploaded SVG file.
 
-🧾 Evidence 2
-
 The uploaded file is accessible without authentication.
-
-(insert screenshot here)
 
 ✅ Step 3 — Open Image in New Tab
 
 Right-click the uploaded SVG and open it in a new browser tab.
 
-🧾 Evidence 3
+
+<img width="1918" height="884" alt="5" src="https://github.com/user-attachments/assets/3d2c4d64-1c43-41fd-a50f-83af596e6b8a" />
+
+
+🧾 Evidence 2
 
 The browser renders the SVG file, executing the embedded JavaScript.
 
-(insert screenshot here)
+<img width="1913" height="844" alt="6" src="https://github.com/user-attachments/assets/cf74a0f5-f287-45fb-a920-e9328dca4779" />
 
 💥 Impact
 
